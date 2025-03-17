@@ -3,11 +3,6 @@ for freelance work? do reach, [email](mailto:bharathmuppa@gmail.com) :)
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript   7 mins          █████████████████████████   99.67 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-```
-
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈

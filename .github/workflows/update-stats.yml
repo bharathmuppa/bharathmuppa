@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every 5 minutes
-    - cron: "*/5 * * * *"
+    - cron: "4,9,14,19,24,29,34,39,44,49,54,59 * * * *"
 
 jobs:
   update-readme:

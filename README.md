@@ -3,6 +3,10 @@ for freelance work? do reach, [email](mailto:bharathmuppa@gmail.com) :)
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
